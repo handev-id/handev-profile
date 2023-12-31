@@ -57,7 +57,7 @@ new TypeIt("#myDesc", {
   loop: false,
 })
   .type(
-    "Enjoy learning new things, committed to the given tasks, and easily adaptable",
+    "Senang belajar hal baru, berkomitmen pada tugas yang diberikan, dan mudah beradaptasi.",
     { delay: 1000 }
   )
   .go();
