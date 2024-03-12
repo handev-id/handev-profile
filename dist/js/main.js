@@ -48,7 +48,7 @@ new TypeIt("#myName", {
   loop: true,
 })
   .delete()
-  .type("Im a Front End Web Developer        ")
+  .type("I am a Software Engineer", { delay: 2000 })
   .go();
 
 new TypeIt("#myDesc", {
